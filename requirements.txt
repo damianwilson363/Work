@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+python-multipart
+fpdf
+geojson
+opencv-python
